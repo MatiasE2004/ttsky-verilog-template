@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "contadorusfq"      # Project title
-  author:       "Matias Espin"      # Your name
+  author:       "Matias Espin Rosales"      # Your name
   discord:      "titob25"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "it's a counter, so it counts"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
